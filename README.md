@@ -1,0 +1,2 @@
+# Topic-Analysis-of-United-States-Democratic-and-Republican-Presidential-Platforms-from-2000-2016
+Analyzing and comparing Democratic and Republican Party Manifestos according to a set of predefined topics that are based on the Latent Dirichlet Allocation (LDA) model. In order to further enhance our knowledge about relevant topics the technique of bootstrapping to understand the positions of political parties by expanding on the topics shortlisted. 
